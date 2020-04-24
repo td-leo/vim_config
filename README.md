@@ -1,5 +1,7 @@
 # vim_config
 1. 安装cscope + ctags
+sudo apt-get install cscope ctags
+
 2. 安装插件，使用vundle安装管理
 安装vundle
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
